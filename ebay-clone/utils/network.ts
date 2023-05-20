@@ -1,2 +1,2 @@
-import {Mumbai} from '@thirdweb-dev/chains'
-export default Mumbai;
+import {ChainId} from '@thirdweb-dev/react'
+export default ChainId.Mumbai;
