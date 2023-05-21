@@ -10,10 +10,11 @@
 * This is connected with third web using marketplace contract. 
 * User can also connect to the wallet using third web wallet functionality.
 * User can also  list their own items on the marketplace by clicking on 'Add to Inventory' Link.
-* The items can also be bought by clicking on 'Buy Now' button.
+* The items can also be bought by clicking on 'Buy Now'/'Auction' button.
 <br/>
 
-![Frame 1 (1)](https://github.com/dds05/Ebay-Clone/assets/78254330/4c1d0a69-c723-467f-8774-505eae57c323)
+![Frame 3](https://github.com/dds05/Ebay-Clone/assets/78254330/8d16d5fd-b0aa-4851-907c-0eb5f39c08f9)
+
 
 
 #### 2. Add to Inventory Page
@@ -25,8 +26,10 @@
 #### 3. List Item Page
 * This page shows user's owned NFTS which can be listed on marketplace
 * On selection of a particular item, a form will appear which provides certain options to list the item.
+* User can chose to create a Direct / Auction Listing
+* It will list the items on the marketplace and can be visible on the Home Page.
 
-![image](https://github.com/dds05/Ebay-Clone/assets/78254330/075dbe26-fba0-46cb-8e10-0627099d003e)
+![Frame 5](https://github.com/dds05/Ebay-Clone/assets/78254330/26c3b6e9-1d8a-44f3-abd3-5750e0376a09)
 
 
 
