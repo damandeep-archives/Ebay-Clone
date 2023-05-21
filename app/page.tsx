@@ -61,6 +61,7 @@ export default function Home() {
           </p>
         ) : (
           <>
+           {search && searchResults?.length==0 && <div className="text-center text-lg">No Search Results found for <span className="text-blue-500">"{search}"</span></div>}
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 mx-auto">
             {(search?searchResults:listings)?.map((listing, idx) => (
               <div
